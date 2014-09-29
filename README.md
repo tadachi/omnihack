@@ -10,5 +10,8 @@ http://www.ps3hax.net/showthread.php?t=55639 (FAQ to decide which firmware to us
 
 ### 3DS
 
-http://www.maxconsole.com/maxcon_forums/threads/278794-GUIDE-Step-By-Step-Gateway-3DS-Installation (Official step-by-step)
-http://www.gateway-3ds.com/ (Official source for firmware and retailers)
+http://www.maxconsole.com/maxcon_forums/threads/278794-GUIDE-Step-By-Step-Gateway-3DS-Installation 
+(Official step-by-step)
+
+http://www.gateway-3ds.com/ 
+(Official source for firmware and retailers)
