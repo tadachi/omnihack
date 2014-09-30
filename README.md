@@ -13,4 +13,4 @@ Quality links to hardware hacking ranging from consoles to mobile devices.
 
 [Official step-by-step install tutorial for Gateway 3DS](http://www.maxconsole.com/maxcon_forums/threads/278794-GUIDE-Step-By-Step-Gateway-3DS-Installation)
 
-[Official source for firmware and retailers)](http://www.gateway-3ds.com/)
+[Official source for firmware and retailers](http://www.gateway-3ds.com/)
