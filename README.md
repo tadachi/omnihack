@@ -16,3 +16,5 @@ Quality links to hardware hacking ranging from consoles to mobile devices.
 [Official source for firmware and retailers](http://www.gateway-3ds.com/)
 
 [3DS Hacking FAQ, General Resource for online play, working games, etc](http://wiki.gbatemp.net/wiki/3DS_Hacking_FAQ)
+
+[How to patch roms for online use with Gateway 3DS](http://www.3dsiso.com/showthread.php?262052-MEGA-3DZ-ONLINE-PATCHED-ROMs-Mega-Thread-LAST-UPDATE-10-03-14-Smash-Bros-USA!)
